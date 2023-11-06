@@ -1,3 +1,6 @@
+# This program is from a past project, where data from the NCBI database was scraped and organized in an .xlsx file
+# The script employs REST APIs to gather data from the website, which should be applied to the data scraping program for this current pipeline.
+
 import csv
 import pandas as pd
 import requests
